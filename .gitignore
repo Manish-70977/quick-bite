@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Node.js
+node_modules/
+npm-debug.log*
+adminpanel/node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
